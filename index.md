@@ -4,12 +4,11 @@ The is the landing page for our Github repository. More to come.
 
 ### Sections
 
-# Software for high-throughput screening
-# Software for genome-editing experiments
-# Supplemental material for published manuscript
+1. Software for high-throughput screening
+2. Software for genome-editing experiments
+3. Supplemental material for published manuscript
 
-
-
+---
 Visit our lab wegpabe [http://www.boutroslab.org](url) 
 
 ### Support or Contact
