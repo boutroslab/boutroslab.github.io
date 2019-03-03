@@ -2,6 +2,8 @@
 
 The is the landing page for our Github repository. More to come.
 
+---
+
 ### Sections
 
 1. Software for high-throughput screening
@@ -9,8 +11,5 @@ The is the landing page for our Github repository. More to come.
 3. Supplemental material for published manuscript
 
 ---
-Visit our lab wegpabe [http://www.boutroslab.org](url) 
+Visit our lab webpage [http://www.boutroslab.org](url) 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
